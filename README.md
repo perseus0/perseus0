@@ -6,4 +6,3 @@
 
 [![reddotzero's github stats](https://github-readme-stats.vercel.app/api?username=reddotzero&show_icons=true&theme=cobalt&count_private=true)](https://github.com/reddotzero)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reddotzero&layout=compact&theme=cobalt)](https://github.com/reddotzero)
